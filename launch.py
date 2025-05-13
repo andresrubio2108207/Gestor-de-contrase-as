@@ -75,9 +75,9 @@ class Login:
 
         # Leer el usuario y contraseña desde los archivos en la carpeta "User dates"
 
-        with open("User dates/usuario.txt", "r", encoding="utf-8") as archivo_usuario:
+        with open("usuario.txt", "r", encoding="utf-8") as archivo_usuario:
             usuario_guardado = archivo_usuario.read()
-        with open("User dates/password.txt", "r", encoding="utf-8") as archivo_password:
+        with open("password.txt", "r", encoding="utf-8") as archivo_password:
             contraseña_guardada = archivo_password.read()
 
         # Obtener los valores ingresados por el usuario
