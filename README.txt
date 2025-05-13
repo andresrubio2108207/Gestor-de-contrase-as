@@ -8,6 +8,7 @@ con Tkinter y una terminal interactiva con Rich la cual permite crear usuarios,
 generar contraseñas aleatorias, validar credenciales y mostrar los datos
 en una tabla visual todo almacenado en archivos locales.
 
+---REQUERIMENTS---
 
 LIBRERIAS:
 
