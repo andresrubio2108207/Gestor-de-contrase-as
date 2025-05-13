@@ -1,8 +1,6 @@
 from tkinter import Tk, Label, Button, Entry, Frame, messagebox
 from PIL import Image, ImageTk
 
-# Se importa el usuario y contraseña del main
-
 class Login:
     def __init__(self):
         self.ventana = Tk()
