@@ -15,9 +15,7 @@ LIBRERIAS:
 Rich: pip install rich
 Pillow: pip install Pillow
 
-
 Es posible que se necesite la version mas reciente de pip
-
 
 (PARA WINDOWS)
 
