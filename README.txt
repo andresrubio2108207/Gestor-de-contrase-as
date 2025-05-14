@@ -1,7 +1,5 @@
 
-
 Descripción:
-
 
 Este proyecto representa una gestión de usuarios en Python que combina una interfaz gráfica
 con Tkinter y una terminal interactiva con Rich la cual permite crear usuarios,
