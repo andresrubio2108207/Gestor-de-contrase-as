@@ -24,6 +24,12 @@ Es posible que se necesite la version mas reciente de pip
 Pip install: python -m ensurepip --upgrade
 Pip last version: python -m pip install --upgrade pip 
 
+---PASOS A SEGUIR PARA UTILIZARLO---
+
+1. Instala los requerimientos descritos anteriormente
+2. Crea tu usuario en el main.py
+3. Inicia el archivo launcher para activar la interfaz e ingresa tu usuario y contraseña descrito anteriormente en el main.
+
 -- Andres Rubio
 
 
