@@ -24,7 +24,11 @@ Pip last version: python -m pip install --upgrade pip
 
 1. Instala los requerimientos descritos anteriormente
 2. Crea tu usuario en el main.py
-3. Inicia el archivo launcher para activar la interfaz e ingresa tu usuario y contraseña descrito anteriormente en el main.
+3. Inicia el archivo launcher para activar la interfaz e ingresa tu usuario y contraseña creado anteriormente en el main
+el cual almacenara el usuario y contraseña en dos archivos .txt los cuales se compararan en el inicio de sesión.
+
+En caso de que el usuario y la contraseña coincidan con los archivos.txt el inicio sera exitoso, de lo contrario arrojara un 
+mensaje de error.
 
 -- Andres Rubio
 
