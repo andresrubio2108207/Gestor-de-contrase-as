@@ -30,7 +30,7 @@ class Login:
 
         # Imagenes
 
-        self.img = Image.open("https://es.vecteezy.com/png/19879198-icono-de-usuario-en-fondo-transparente")  
+        self.img = Image.open("Images/User-Image.webp")  
         self.img = self.img.resize((300, 180))
         self.render = ImageTk.PhotoImage(self.img)
         self.fondo = Label(self.frame_superior, image = self.render, bg = fondo)
